@@ -10,7 +10,7 @@ C/C++, JavaScript
 
 About me:
 
-- 🔭 I’m currently Looking for an Internship and also a full time job
+- 🔭 Looking for full time job
 - 🌱 I’m currently learning React, Node, Firebase, REST Api
 - 💬 Ask me about anything
 - 📫 How to reach me: Email, Facebook
