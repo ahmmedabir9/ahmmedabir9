@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Abir</h1>
 <h3 align="center">A Human Being who talks with Machines</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmmedabir9&label=Profile%20views&color=0e75b6&style=flat" alt="ahmmedabir9" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmmedabir9&label=Profile%20views&color=0e75b6&style=flat" alt="ahmmedabir9" /> </p> -->
 <p align="left">
   <a href="https://leetcode.com/ahmmedabir9/">
     <img src="https://cp-logo.vercel.app/leetcode/ahmmedabir9" alt="Leet code rating" />
   </a>
-  <a href="https://codeforces.com/profile/ahmmed_abir.me">
+  <!-- <a href="https://codeforces.com/profile/ahmmed_abir.me">
     <img src="https://raw.githubusercontent.com/ahmmedabir9/cf-stats/main/output/rating.svg" alt="Leet code rating" />
-  </a>
+  </a> -->
   <a href="https://stackoverflow.com/users/5921662/ahmmed-abir">
     <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/5921662?color=orange&label=reputation&logo=stackoverflow">
   </a>
