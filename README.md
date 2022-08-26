@@ -2,8 +2,26 @@
 <h3 align="center">A Human Being who talks with Machines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmmedabir9&label=Profile%20views&color=0e75b6&style=flat" alt="ahmmedabir9" /> </p>
+<p align="left">
+  <a href="https://leetcode.com/ahmmedabir9/">
+    <img src="https://cp-logo.vercel.app/leetcode/ahmmedabir9" alt="Leet code rating" />
+  </a>
+  <a href="https://codeforces.com/profile/ahmmed_abir.me">
+    <img src="https://raw.githubusercontent.com/ahmmedabir9/cf-stats/main/output/rating.svg" alt="Leet code rating" />
+  </a>
+  <a href="https://stackoverflow.com/users/5921662/ahmmed-abir">
+    <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/5921662?color=orange&label=reputation&logo=stackoverflow">
+  </a>
+  <a href="https://github.com/ahmmedabir9?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/ahmmedabir9?color=green&logo=github">
+  </a>
+  <a href="https://github.com/ahmmedabir9/">
+    <img src="https://komarev.com/ghpvc/?username=ahmmedabir9" alt="visitors" />
+  </a>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmmedabir9" alt="ahmmedabir9" /></a> </p>
+</p>
+
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmmedabir9" alt="ahmmedabir9" /></a> </p> -->
 
 - 🔭 I’m currently working on [Implevista BD](https://implevista.com)
 
@@ -38,6 +56,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmmedabir9&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmmedabir9&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmmedabir9&" alt="ahmmedabir9" /></p>
 
 <b>&#128200; Competitive Programming</b>
 
@@ -45,5 +64,3 @@
 <img height="273em" src="https://leetcard.jacoblin.cool/ahmmedabir9?theme=light&font=Karma&ext=contest" />
 <img height="280em" src="https://raw.githubusercontent.com/ahmmed_abir/cf-stats/main/output/light_card.svg" />
 </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmmedabir9&" alt="ahmmedabir9" /></p>
