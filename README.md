@@ -56,12 +56,11 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmmedabir9&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmmedabir9&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmmedabir9&" alt="ahmmedabir9" /></p>
 
 <h3 align="center">
- <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=shourov-sorkar&theme=light&background=FD2D2D00&hide_border=true&currStreakNum=DD0000&sideLabels=DD2727&sideNums=1CDDAD" alt="shourov-sorkar"/>
+ <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=ahmmedabir9&theme=light&background=FD2D2D00&hide_border=true&currStreakNum=DD0000&sideLabels=DD2727&sideNums=1CDDAD" alt="shourov-sorkar"/>
 </h3>
-<img src="https://activity-graph.herokuapp.com/graph?username=shourov-sorkar&bg_color=00000&hide_border=true" width="100%"/>
+<img src="https://activity-graph.herokuapp.com/graph?username=ahmmedabir9&bg_color=00000&hide_border=true" width="100%"/>
 
 <b>&#128200; Competitive Programming</b>
 
