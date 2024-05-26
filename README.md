@@ -23,9 +23,9 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmmedabir9" alt="ahmmedabir9" /></a> </p> -->
 
-- 🔭 I’m currently working on [Implevista BD](https://implevista.com)
+- 🔭 I’m currently working on [Cognitus](https://cognitus.com/)
 
-- 👨‍💻 All of my projects are available at [ahmmedabir.me](ahmmedabir.me)
+- 👨‍💻 All of my projects are available at [ahmmedabir](https://ahmmed-abir.web.app/)
 
 - 💬 Ask me about **React.js, Node.js, MongoDB, Firebase**
 
